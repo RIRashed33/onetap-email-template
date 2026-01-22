@@ -9,89 +9,91 @@
   </mj-head>
 
   <mj-body background-color="#ffffff">
-    <mj-section background-color="#ffffff" padding="14px 32px" border-bottom="1px solid #d3d3d3">
+    <mj-section background-color="#ffffff" padding="14px 16px" border-bottom="1px solid #d3d3d3">
       <mj-column>
-        <mj-image width="134px" src="https://i.ibb.co.com/Nd8sxK9t/logo.png"></mj-image>
+        <mj-image width="134px" src="https://mcusercontent.com/31096b84c44e95afced087caf/images/09b78034-7ed3-dc0a-bd73-21217a15a3b2.png"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="60px 32px 55px">
+    <mj-section background-color="#ffffff" padding="60px 16px 55px">
       <mj-column>
-        <mj-text align="center" padding="0" font-size="32px" font-weight="700" color="#000000" line-height="38px">The End of Paper</mj-text>
-        <mj-text align="center" font-size="32px" font-weight="700" color="#0394E7" line-height="38px" padding="0 0 24px">Business Cards</mj-text>
+        <mj-text align="center" padding="0" font-size="30px" font-weight="700" color="#000000" line-height="38px">The End of Paper</mj-text>
+        <mj-text align="center" font-size="30px" font-weight="700" color="#0394E7" line-height="38px" padding="0 0 24px">Business Cards</mj-text>
         <mj-text padding="0">
           Hi [Name],
           <br></br>
           I’m reaching out because we help companies like yours eliminate the recurring costs and hassle of constantly reprinting business cards due to staff turnover or information changes.
-          <br></br>
-          We’ve created <strong>OneTap,</strong> a fully digital card platform powered by a single, fully customized physical NFC card for each employee. This card replaces paper forever.6
+        <br></br>
+          We’ve created <strong>OneTap,</strong> a fully digital card platform powered by a single, fully customized physical NFC card for each employee. This card replaces paper forever
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-wrapper background-color="#ffffff" padding="0 32px 0">
-      <mj-section background-url="https://i.ibb.co.com/vxjdDftt/bg-image.png" background-repeat="no-repeat" background-size="cover" background-position="center" border-radius="16px" padding="30px 30px 60px">
-        <mj-column>
+    <mj-wrapper background-color="#ffffff" padding="0 16px 0">
+      <mj-section background-url="https://mcusercontent.com/31096b84c44e95afced087caf/images/1d576523-45fd-7ae6-dc66-267167cd8c27.jpg" background-repeat="no-repeat" background-size="cover" background-position="center" border-radius="16px" padding="0 24px 0">
+        <mj-column width="75%" vertical-align="middle" padding="24px 0">
           <mj-text font-weight="700" font-size="18px" color="#111111" padding="0 0 20px">Why switch to digital?</mj-text>
           <mj-table font-size="16px" line-height="24px" color="#111111" cellpadding="5px" cellspacing="0" padding="0px">
             <tr>
-              <td width="28px"><img src="https://i.ibb.co.com/FbzhFQGT/list-icon-4.png"></img></td>
+              <td width="28px"><img src="https://mcusercontent.com/31096b84c44e95afced087caf/images/a1d42136-6a0d-97af-8ac6-a7c658e04249.png" width="28"></img></td>
               <td>Complete brand control</td>
             </tr>
             <tr>
-              <td width="28px"><img src="https://i.ibb.co.com/F4rBdnHS/list-icon-3.png"></img></td>
+              <td width="28px"><img src="https://mcusercontent.com/31096b84c44e95afced087caf/images/3f908218-6a16-39e6-97e9-a701fa1b12ad.png" width="28"></img></td>
               <td>Always-accurate employee details</td>
             </tr>
             <tr>
-              <td width="28px"><img src="https://i.ibb.co.com/4nT4FYCL/list-icon-2.png"></img></td>
+              <td width="28px"><img src="https://mcusercontent.com/31096b84c44e95afced087caf/images/49956008-2080-78f6-e6d4-6bf501504253.png" width="28"></img></td>
               <td>One central management dashboard</td>
             </tr>
             <tr>
-              <td width="28px"><img src="https://i.ibb.co.com/jPYGjj8g/list-icon-1.png"></img></td>
+              <td width="28px"><img src="https://mcusercontent.com/31096b84c44e95afced087caf/images/db945117-1123-e9c1-8cfc-0fa0a5d0790f.png" width="28"></img></td>
               <td>One-time investment, long-term savings</td>
             </tr>
           </mj-table>
         </mj-column>
+        <mj-column width="25%" vertical-align="middle" padding="16px 0">
+          <mj-image src="https://mcusercontent.com/31096b84c44e95afced087caf/images/eabd9e00-2bca-6a60-11d2-7b638e795d25.png" padding="0" align="center"></mj-image>
+        </mj-column>
     	</mj-section>
     </mj-wrapper>
-    <mj-wrapper padding="20px 32px 0">
+    <mj-wrapper padding="20px 16px 0">
       <mj-section padding="0 0 40px" border-bottom="1px solid #d3d3d3">
         <mj-column>
-          <mj-button width="100%" padding="0" border-radius="8px" font-family="Inter" background-color="#2A7EFF" font-size="16px" line-height="20px" inner-padding="15px 25px" font-weight="700" color="white">Book a 10-Minute Demo</mj-button>
+          <mj-button href="https://calendar.app.google/XuEzXwgRCw23Q63k6" width="100%" padding="0" border-radius="8px" font-family="Inter" background-color="#2A7EFF" font-size="16px" line-height="20px" inner-padding="15px 25px" font-weight="700" color="white">Book a 10-Minute Demo</mj-button>
           <mj-text padding="16px 0 0" font-size="14px" color="#636363" align="center">Would you be open to a 10 minute call showing how <strong style="color:#111111;">One Tap</strong> can switch off paper and gain better control starting the next year?</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
-    <mj-section padding="30px 32px 50px">
-      <mj-column vertical-align="middle">
+    <mj-section padding="30px 16px 50px">
+      <mj-column vertical-align="middle" width="70%" padding="8px 0">
         <mj-table font-size="16px" line-height="1.5" color="#2A7EFF" cellpadding="0" cellspacing="0" padding="0px">
           <tr>
-            <td width="84px"><img src="https://i.ibb.co.com/Gv5rZPN7/user.png" alt="ceo"></img></td>
             <td>
-              <h6 style="margin:0; font-size:18px;color:#484848;">Taman Singh</h6>
-              <p style="margin:0;">CEO, OneTap</p>
+              <h6 class="mobile-center" style="margin:0; font-size:18px;color:#484848;">Taman Singh</h6>
+              <p class="mobile-center" style="margin:0 !important;">CEO, OneTap</p>
             </td>
           </tr>
         </mj-table>
       </mj-column>
-      <mj-column vertical-align="middle" padding="0">
-        <mj-table width="136px" align="right" color="#636363" font-size="14px" line-height="21px" padding="0" cellpadding="0" cellspacing="0">
-          <tr><td><a style="color:#636363;text-decoration:none;" href="tel:01344 205819">01344 205819</a></td></tr>
-          <tr><td><a style="color:#636363;text-decoration:none;" href="mailto:Info@onetapcard.uk">Info@onetapcard.uk</a></td></tr>
-          <tr><td><a style="color:#636363;text-decoration:none;" href="www.onetapcard.uk">www.onetapcard.uk</a></td></tr>
+      <mj-column vertical-align="middle" padding="0" width="30%">
+        <mj-table css-class="mobile-center" align="center" color="#636363" font-size="14px" line-height="21px" padding="0" cellpadding="0" cellspacing="0">
+          <tr><td><a class="mobile-center" style="color:#636363;text-decoration:none;" href="tel:01344 205819">01344 205819</a></td></tr>
+          <tr><td><a class="mobile-center" style="color:#636363;text-decoration:none;" href="mailto:Info@onetapcard.uk">Info@onetapcard.uk</a></td></tr>
+          <tr><td><a class="mobile-center" style="color:#636363;text-decoration:none;" href="www.onetapcard.uk">www.onetapcard.uk</a></td></tr>
         </mj-table>
       </mj-column>
     </mj-section>
-    <mj-section padding="40px 32px" background-color="#EDF5F5">
+    <mj-section padding="32px 16px" background-color="#EDF5F5">
       <mj-column>
-        <mj-social icon-size="25px" align="center" icon-padding="6px">
-         <mj-social-element src="https://i.ibb.co.com/5WyVVVFv/facebook.png" href="#"></mj-social-element>
-          <mj-social-element src="https://i.ibb.co.com/5xts9kwV/twitter.png" href="#"></mj-social-element>
-          <mj-social-element src="https://i.ibb.co.com/SXPBn57v/pinterest.png" href="#"></mj-social-element>
-          <mj-social-element src="https://i.ibb.co.com/N2wk1FQC/instagram.png" href="#"></mj-social-element>
-          <mj-social-element src="https://i.ibb.co.com/Qjm0Q0J4/youtube.png" href="#"></mj-social-element>
+        <mj-social icon-size="25px" align="center" icon-padding="4px">
+         <mj-social-element src="https://mcusercontent.com/31096b84c44e95afced087caf/images/d29cef47-9616-0766-a3ea-7c07b16ad5eb.png" href="#"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/31096b84c44e95afced087caf/images/0846f1b5-6898-d967-dc9e-b4eb9dc17355.png" href="#"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/31096b84c44e95afced087caf/images/5a15fc18-bdd6-0fb5-0345-b3a1e510663e.png" href="#"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/31096b84c44e95afced087caf/images/98952230-0156-0f0a-f82b-5b235f6d2e35.png" href="#"></mj-social-element>
+          <mj-social-element src="https://mcusercontent.com/31096b84c44e95afced087caf/images/380cb8b3-8b37-59db-e527-455208c23131.png" href="#"></mj-social-element>
         </mj-social>
         <mj-text color="#636363" font-size="14px" line-height="21px" align="center" padding="0 0 8px">@2026 OneTap. All right reserved</mj-text>
         <mj-text color="#636363" font-size="14px" line-height="21px" align="center" padding="0 0 8px">32 High Street Bagshot, Surrey GU19 5AZ</mj-text>
-        <mj-text color="#636363" font-size="14px" line-height="21px" align="center" padding="0 0 8px"><a style="color:#636363;" href="#">Unsubscribe</a> from this list</mj-text>
+        <mj-text color="#636363" font-size="14px" line-height="21px" align="center" padding="0 0 8px"><a style="color:#636363;" href="*|UNSUB|*">Unsubscribe</a> from this list</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
